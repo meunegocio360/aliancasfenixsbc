@@ -1,0 +1,45 @@
+{
+ "name": "Alianças Fênix - São Bernardo - Tour Virtual 360°",
+ "theme_color": "#FFFFFF",
+ "description": "Avenida Kennedy, 700 Golden Square Shopping, Piso L2 - Loja 207 - Jardim do Mar, São Bernardo do Campo - SP",
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "icons": [
+  {
+   "sizes": "150x150",
+   "type": "image/png",
+   "src": "misc/icon150.png"
+  },
+  {
+   "sizes": "16x16",
+   "type": "image/png",
+   "src": "misc/icon16.png"
+  },
+  {
+   "sizes": "180x180",
+   "type": "image/png",
+   "src": "misc/icon180.png"
+  },
+  {
+   "sizes": "192x192",
+   "type": "image/png",
+   "src": "misc/icon192.png"
+  },
+  {
+   "sizes": "32x32",
+   "type": "image/png",
+   "src": "misc/icon32.png"
+  },
+  {
+   "sizes": "512x512",
+   "type": "image/png",
+   "src": "misc/icon512.png"
+  },
+  {
+   "sizes": "64x64",
+   "type": "image/png",
+   "src": "misc/icon64.png"
+  }
+ ],
+ "background_color": "#FFFFFF"
+}
